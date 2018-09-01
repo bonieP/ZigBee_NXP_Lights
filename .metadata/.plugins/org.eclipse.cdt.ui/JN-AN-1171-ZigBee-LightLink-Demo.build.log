@@ -1,0 +1,8 @@
+11:42:38 **** Build of configuration Light_ColorLight for project JN-AN-1171-ZigBee-LightLink-Demo ****
+make LIGHT=Light_ColorLight OTA=0 JENNIC_CHIP=JN5168 all 
+JENNIC_MAC is Mini MAC shim 
+Building trace version ...
+make: Nothing to be done for `all'.
+
+11:43:21 Build Finished (took 43s.468ms)
+

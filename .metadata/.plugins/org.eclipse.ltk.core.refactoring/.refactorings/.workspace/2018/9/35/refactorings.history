@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;JN-AN-1171-ZigBee-LightLink-Demo&apos;" deleteContents="false" description="Delete resource &apos;JN-AN-1171-ZigBee-LightLink-Demo&apos;" element1="/JN-AN-1171-ZigBee-LightLink-Demo" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1535796242842"/>
+</session>
